@@ -1,7 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:b3ecff,50:5ecbff,100:0099ff&height=170&section=header&text=Yumin&fontSize=38&fontColor=ffffff"/>
+</div>
+
 ## Education & Experience
 <ul>
   <li>홍익대학교 컴퓨터공학과 <sub>(2023.03 ~ now)</sub></li>
   <li>홍익대학교 UMC 8기 WEB 챌린저 <sub>(2025.03 ~ 2025.08)</sub></li>
+  <li>홍익대학교 UMC 9기 WEB 파트장 <sub>(2025.08 ~ now)</sub></li>
+  <li>홍익대학교 UMC 9기 운영진 <sub>(2025.08 ~ now)</sub></li>
 </ul>
 
 ## Stacks
