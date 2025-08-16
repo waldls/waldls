@@ -32,6 +32,6 @@
 
 ### GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=waldls&show_icons=true&hide_title=true&count_private=true&bg_color=00000000&title_color=4b77be&text_color=4b4b4b&icon_color=4b77be" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waldls&layout=compact&hide_title=true&bg_color=00000000&title_color=4b77be&text_color=4b4b4b" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=waldls&show_icons=true&count_private=true&bg_color=00000000&title_color=4b77be&text_color=4b4b4b&icon_color=4b77be" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waldls&layout=compact&bg_color=00000000&title_color=4b77be&text_color=4b4b4b" height="150" />
 </p>
