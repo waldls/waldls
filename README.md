@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:b3ecff,50:5ecbff,100:0099ff&height=170&section=header&text=Yumin&fontSize=38&fontColor=ffffff"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4200&pause=800&color=006400&width=600&height=60&lines=Welcome+to+my+Wald!🌳)](https://git.io/typing-svg)
 
 ### Profile
 <ul>
